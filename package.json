@@ -1,0 +1,23 @@
+{
+  "name": "string-class1-example",
+  "version": "1.0.0",
+  "description": "extension format string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-pro/week-1-es5-module-library-carmonaca.git"
+  },
+  "keywords": [
+    "string",
+    "format"
+  ],
+  "author": "Adrián Carmona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-pro/week-1-es5-module-library-carmonaca/issues"
+  },
+  "homepage": "https://github.com/js-pro/week-1-es5-module-library-carmonaca#readme"
+}
