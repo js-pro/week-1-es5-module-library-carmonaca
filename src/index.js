@@ -19,19 +19,15 @@ module.exports = {
    randomString: function(length){ 
    	var result  = '';
           result = randomLetters(alphabet,length);
-        
 	    return result;
    }, 
 
     randomStringWithNumbers: function(length, withNumbers){
     	 var result = '';
-    	console.log(withNumbers);
         if (withNumbers === true || withNumbers === undefined){
         	result = randomLetters(completeAlphabet,length);
-        	 console.log('todo');
         }else{
         	result = randomLetters(alphabet,length);
-        	console.log('parte');
         }
       
 	    return result;

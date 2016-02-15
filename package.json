@@ -1,5 +1,5 @@
 {
-  "name": "string-class1-example",
+  "name": "string-random",
   "version": "1.0.0",
   "description": "extension format string",
   "main": "src/index.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "string",
-    "format"
+    "random"
   ],
   "author": "Adrián Carmona",
   "license": "MIT",
